@@ -1,0 +1,23 @@
+.nav{
+    background-color: #F6EFE7;
+    font-size: 1.5rem;
+    font-family: 'Bebas Neue', cursive;
+    li{
+        margin-left: 1rem;
+        font-size: 17px;
+        margin: 0 30px;
+        list-style: none;
+    }
+    
+    #button{
+        background-color:black;
+        z-index: 1;
+    }
+    
+    .logo{
+        height: 60px;
+        margin-left: 2.5rem;
+    }
+    
+}
+
