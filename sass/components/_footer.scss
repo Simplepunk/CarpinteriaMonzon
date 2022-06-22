@@ -14,9 +14,12 @@
         padding-bottom:0;
         margin-top: 0px;
     }
-    .a{
+    
+    a{
+        list-style-type: none;
+        color: #5c7293;
         text-decoration: none;
-        color: #161616;
+    }
     }
     .small{
         font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important;
@@ -44,4 +47,3 @@
         font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important;
     }
     
-}

@@ -1,4 +1,9 @@
 
+.video__card{
+    .video__text{
+        @include texto;
+    }
+}
 
 @media screen and (max-width: 1440px) {
 
